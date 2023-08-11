@@ -1,0 +1,5 @@
+schemaVersion: 2.2.0
+metadata:
+  name: simple-quarkus
+parent:
+  uri: https://gist.githubusercontent.com/l0rd/e55119c949165337b061c4af25961101/raw/parent-devfile.yaml
